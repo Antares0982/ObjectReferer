@@ -1,0 +1,7 @@
+[tool.autopep8]
+max-line-length = 160
+
+[tool.isort]
+line_length = 160
+multi_line_output = 3
+
